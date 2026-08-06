@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth688" alt="srikanth688" /></a> </p>
 
-- 🔭 I’m currently working on **Green-Mile**
-
 - 🌱 I’m currently learning **Machine Learning,DSA,Android Developmemt**
 
 - 📫 How to reach me **srikanthyendluru@gmail.com**
