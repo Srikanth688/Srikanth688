@@ -1,101 +1,71 @@
-<h1 align="center">Hi 👋, I'm Srikanth</h1>
-
-<h3 align="center">Salesforce Developer | Software Developer | B.Tech CSE Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikanth688&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth688" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student interested in building
-real-world applications and learning modern software development.
+I'm a Computer Science Engineering student and aspiring software
+developer with an interest in building real-world applications
+and solving practical problems through technology.
 
-Currently, my primary focus is **Salesforce Development**, where I am
-building projects while learning the complete Salesforce Developer
-lifecycle.
+### 💡 Areas I'm Interested In
+
+- ☁️ Salesforce Development
+- 💻 Software Development
+- 🧩 Data Structures & Algorithms
+- ☕ Java Development
+- 🐍 Python Development
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 📱 Android Development
+- 🗄️ Database Management
+- 🤖 Machine Learning & AI
+- 🔗 API Development & Integration
+- 🔐 Authentication & Application Security
+- 🧪 Software Testing
+- 🚀 Application Deployment
+- 🐙 Git & GitHub
+
+### 🛠️ Technologies I've Worked With
+
+**Programming:**  
+Java • Python • C • C++ • JavaScript • TypeScript • Kotlin
+
+**Salesforce:**  
+Salesforce Platform • Apex • SOQL • Flow • LWC • Triggers •
+Validation Rules • Reports & Dashboards
+
+**Web & Backend:**  
+HTML • CSS • JavaScript • React • Node.js • Express • Spring Boot • Django
+
+**Mobile:**  
+Android • Kotlin • Firebase
+
+**Databases:**  
+MySQL • MongoDB • Firebase
+
+**Data & AI:**  
+Python • Pandas • Scikit-learn • Seaborn • Machine Learning
+
+**Tools:**  
+Git • GitHub • VS Code • IntelliJ IDEA • Android Studio • Salesforce CLI
 
 ### 🌱 Currently Learning
 
-- Salesforce Development
+I'm currently focusing on **Salesforce Development** while continuing
+to strengthen my skills in:
+
 - Apex
 - SOQL
 - Salesforce Flow
-- Apex Triggers
-- Apex Test Classes
-- Lightning Web Components (LWC)
-- Salesforce Security
-- Reports & Dashboards
-- Salesforce CLI
-- Git & GitHub
-- Data Structures & Algorithms
-
-📫 **Email:** [srikanthyendluru@gmail.com](mailto:srikanthyendluru@gmail.com)
-
----
-
-## ☁️ Salesforce Development
-
-Currently working with:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="45" height="45"/>
-</p>
-
-- Salesforce Platform
-- Custom Objects & Fields
-- Object Relationships
-- Page Layouts
-- Validation Rules
-- Salesforce Flow
-- SOQL
-- Apex
-- Apex Triggers
-- Apex Test Classes
 - Lightning Web Components
-- Reports & Dashboards
-- Salesforce CLI
+- Apex Triggers
+- Test Classes
+- Salesforce Security
+- API Integration
+- Data Structures & Algorithms
+- Java
+- Backend Development
 
----
+### 🎯 My Approach
 
-## 🚀 Current Project
+I prefer learning by building real-world projects rather than
+studying concepts in isolation.
 
-### 🏢 Salesforce Leave Management System
-
-A Salesforce-based application for managing employee leave requests,
-leave balances, holidays and the leave approval process.
-
-### Project Progress
-
-```text
-Requirements
-      ↓
-Objects & Fields          ✅
-      ↓
-Relationships             ✅
-      ↓
-Tabs                      ✅
-      ↓
-Page Layouts              ✅
-      ↓
-Validation Rules          🔄
-      ↓
-Flow Automation           ⏳
-      ↓
-Security                  ⏳
-      ↓
-SOQL                      ⏳
-      ↓
-Apex                      ⏳
-      ↓
-Triggers                  ⏳
-      ↓
-Test Classes              ⏳
-      ↓
-LWC                       ⏳
-      ↓
-Reports & Dashboards      ⏳
-      ↓
-Deployment                ⏳
+**Learn → Build → Test → Document → Deploy**
