@@ -1,71 +1,108 @@
+<h1 align="center">Hi 👋, I'm Srikanth</h1>
+
+<h3 align="center">
+Software Developer | Salesforce Developer | B.Tech CSE Student
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srikanth688&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student and aspiring software
-developer with an interest in building real-world applications
-and solving practical problems through technology.
+I'm a Computer Science Engineering student passionate about building
+real-world applications and solving technical problems.
 
-### 💡 Areas I'm Interested In
+I have experience across **Salesforce, Java, Python, Full-Stack
+Development, Android, Databases, DSA, and Machine Learning**.
 
-- ☁️ Salesforce Development
-- 💻 Software Development
-- 🧩 Data Structures & Algorithms
-- ☕ Java Development
-- 🐍 Python Development
-- 🌐 Web Development
-- ⚙️ Backend Development
-- 📱 Android Development
-- 🗄️ Database Management
-- 🤖 Machine Learning & AI
-- 🔗 API Development & Integration
-- 🔐 Authentication & Application Security
-- 🧪 Software Testing
-- 🚀 Application Deployment
-- 🐙 Git & GitHub
+Currently, I'm focusing on **Salesforce Development** while continuing
+to strengthen my software development and problem-solving skills.
 
-### 🛠️ Technologies I've Worked With
+🌱 **Currently Learning:** Apex • SOQL • Flow • LWC • Triggers • DSA
 
-**Programming:**  
-Java • Python • C • C++ • JavaScript • TypeScript • Kotlin
+📫 **Email:** [srikanthyendluru@gmail.com](mailto:srikanthyendluru@gmail.com)
+
+---
+
+## 🛠️ Skills
 
 **Salesforce:**  
-Salesforce Platform • Apex • SOQL • Flow • LWC • Triggers •
-Validation Rules • Reports & Dashboards
+Salesforce • Apex • SOQL • Flow • LWC
+
+**Programming:**  
+Java • Python • C • C++ • JavaScript • Kotlin
 
 **Web & Backend:**  
-HTML • CSS • JavaScript • React • Node.js • Express • Spring Boot • Django
+React • Node.js • Express • Spring Boot • Django • REST APIs
 
-**Mobile:**  
+**Mobile & Cloud:**  
 Android • Kotlin • Firebase
 
 **Databases:**  
-MySQL • MongoDB • Firebase
+MySQL • MongoDB
 
-**Data & AI:**  
-Python • Pandas • Scikit-learn • Seaborn • Machine Learning
+**AI & Data:**  
+Python • Pandas • Scikit-learn • Machine Learning
 
 **Tools:**  
-Git • GitHub • VS Code • IntelliJ IDEA • Android Studio • Salesforce CLI
+Git • GitHub • VS Code • IntelliJ • Postman • Salesforce CLI
 
-### 🌱 Currently Learning
+---
 
-I'm currently focusing on **Salesforce Development** while continuing
-to strengthen my skills in:
+## 🚀 Featured Projects
 
-- Apex
-- SOQL
-- Salesforce Flow
-- Lightning Web Components
-- Apex Triggers
-- Test Classes
-- Salesforce Security
-- API Integration
-- Data Structures & Algorithms
-- Java
-- Backend Development
+### 🏢 Salesforce Leave Management System
 
-### 🎯 My Approach
+Salesforce application for managing employees, leave requests,
+leave balances, holidays, and approval workflows.
 
-I prefer learning by building real-world projects rather than
-studying concepts in isolation.
+**Tech:** Salesforce • Apex • SOQL • Flow • LWC
 
-**Learn → Build → Test → Document → Deploy**
+🔗 [View Repository](https://github.com/srikanth688/leave-management-salesforce)
+
+### 🏥 Doctor Appointment Management System
+
+Full-stack application for managing doctors, patients and appointments.
+
+**Tech:** React • Node.js • Express • MySQL
+
+### 🌱 GreenMile
+
+Android application focused on environmental awareness.
+
+**Tech:** Kotlin • Android • Firebase
+
+---
+
+## 🎯 Career Goal
+
+To become a strong software developer with solid programming,
+problem-solving and real-world development skills, while specializing
+in Salesforce Development.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/srikanth-yendluri-41833a31a/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/srikanthyendluri" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/Srikanthyendluru/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+> **Learn • Build • Test • Improve**
